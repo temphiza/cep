@@ -40,6 +40,3 @@ La SHCP reporta que los ingresos presupuestarios del Sector Público en el prime
 
 ## Autores
 **Pamela Temores**, **Faustino Neri**,  **Sergio**
-
-
-
