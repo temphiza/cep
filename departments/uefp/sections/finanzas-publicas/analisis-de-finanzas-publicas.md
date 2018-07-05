@@ -39,7 +39,7 @@ La SHCP reporta que los ingresos presupuestarios del Sector Público en el prime
 * Banco de México, **Divulgación/glosario**
 
 ## Autores
-**Pamela Temores**
+**Pamela Temores**, **Faustino Neri**
 
 
 
